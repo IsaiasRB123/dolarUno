@@ -1,0 +1,3 @@
+# dosApiExp
+# apiDolar
+# dolarUno
